@@ -1,6 +1,7 @@
 QWorld Courses
 
-Download the zip files and execute the same in Anaconda
+Download the zip files and execute using Anaconda
+
 Staring with 
 1. QBronze
 2. QNickle
